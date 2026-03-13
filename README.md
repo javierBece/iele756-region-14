@@ -21,7 +21,7 @@ Datasets utilizados
 
 Ejecución (VS Code o Google Colab)
 - VS Code (recomendado):
-	1. Crear y activar un `venv` en la carpeta del proyecto.
+	1. Clonar el repositorio o descargar los archivos a una carpeta local.
 	2. Instalar dependencias: `python -m pip install --upgrade pip setuptools wheel` y `python -m pip install pandas matplotlib openpyxl jupyter`.
 	3. Abrir `Tarea 0 PyAD.ipynb` y ejecutar las celdas en orden.
 
